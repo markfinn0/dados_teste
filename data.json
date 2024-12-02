@@ -1,3 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "Marcus Vinicius",
+      "status": "Ativo",
+      "id": 1
+    }
+  ]
 }
