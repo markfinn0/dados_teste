@@ -4,6 +4,11 @@
       "username": "Marcus Vinicius",
       "status": "Ativo",
       "id": 1
+    },
+    {
+      "username": "User2",
+      "status": "ativo",
+      "id": 2
     }
   ]
 }
