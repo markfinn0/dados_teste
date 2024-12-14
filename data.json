@@ -9,6 +9,11 @@
       "id": 2,
       "username": "pc",
       "status": "pc"
+    },
+    {
+      "id": 3,
+      "username": "Tablet",
+      "status": "Tablet"
     }
   ]
 }
