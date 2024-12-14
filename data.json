@@ -24,6 +24,11 @@
       "id": 5,
       "username": "Tablet2",
       "status": "Tablet2"
+    },
+    {
+      "id": 6,
+      "username": "Cell",
+      "status": "Cell"
     }
   ]
 }
