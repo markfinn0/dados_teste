@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "username": "Teste",
-      "status": "Testes",
-      "id": 6
-    },
-    {
       "username": "VREV",
       "status": "VRE",
       "id": 8
