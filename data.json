@@ -39,6 +39,11 @@
       "id": 8,
       "username": "horus",
       "status": "horus"
+    },
+    {
+      "id": 9,
+      "username": "Marcus",
+      "status": "Marcus"
     }
   ]
 }
