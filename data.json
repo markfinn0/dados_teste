@@ -4,6 +4,11 @@
       "id": 1,
       "username": "x1",
       "status": "x1"
+    },
+    {
+      "id": 2,
+      "username": "x2",
+      "status": "x2"
     }
   ]
 }
