@@ -59,6 +59,11 @@
       "id": 12,
       "username": "novousuario2",
       "status": "ativo"
+    },
+    {
+      "id": 13,
+      "username": "novousuario2",
+      "status": "ativo1"
     }
   ]
 }
