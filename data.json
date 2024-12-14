@@ -39,6 +39,11 @@
       "username": "VREV",
       "status": "VRE",
       "id": 8
+    },
+    {
+      "id": 9,
+      "username": "novousuario",
+      "status": "ativo"
     }
   ]
 }
